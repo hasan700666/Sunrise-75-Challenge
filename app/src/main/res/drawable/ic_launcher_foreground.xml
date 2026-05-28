@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bold, High-Stature '75' Numerical Emblem -->
+    <!-- Number 7 Path -->
+    <path
+        android:fillColor="#FFFFB300"
+        android:pathData="M34,34 h34 v6 L48,74 h-7 L61,41 H34 Z" />
+
+    <!-- Number 5 Path -->
+    <path
+        android:fillColor="#FFFFB300"
+        android:pathData="M51,54 C54,52 61,51 64,55 C67,59 66,66 61,69 C56,72 49,69 48,64 h-7 C42,73 53,78 61,75 C69,72 73,63 70,55 C67,47 57,46 51,48 v-6 h16 v-6 H45 v18 Z" />
+
+</vector>

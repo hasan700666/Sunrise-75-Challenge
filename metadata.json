@@ -1,0 +1,6 @@
+{
+  "name": "Sunrise 75 Challenge",
+  "description": "A lightweight dark-themed streak challenge app for low-end Android 10 devices, where days start exactly at local sunrise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
